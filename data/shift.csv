@@ -1,0 +1,13 @@
+shift_id,day_of_week,start_time,end_time
+SH001,Monday,07:00:00,13:00:00
+SH002,Monday,13:00:00,17:00:00
+SH003,Tuesday,07:00:00,13:00:00
+SH004,Tuesday,13:00:00,17:00:00
+SH005,Wednesday,07:00:00,13:00:00
+SH006,Wednesday,13:00:00,17:00:00
+SH007,Thursday,07:00:00,13:00:00
+SH008,Thursday,13:00:00,17:00:00
+SH009,Friday,07:00:00,13:00:00
+SH010,Friday,13:00:00,17:00:00
+SH011,Saturday,07:00:00,13:00:00
+SH012,Saturday,13:00:00,17:00:00
