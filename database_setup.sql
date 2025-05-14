@@ -64,9 +64,9 @@ CREATE TABLE staff (
 CREATE TABLE coffeeshop (
     row_id SERIAL PRIMARY KEY,
     rota_id VARCHAR(10),
+	date VARCHAR(10),
     shift_id VARCHAR(10),
-    staff_id VARCHAR(10),
-    date DATE
+    staff_id VARCHAR(10)
 );
 
 SELECT * FROM coffeeshop;
